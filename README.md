@@ -1,0 +1,2 @@
+# qoast-rs
+prompt prototype
